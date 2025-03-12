@@ -182,7 +182,7 @@ curl http://localhost:3000/health
 
 ## Frontend Update Screenshot
 
-![Frontend Update](real-time-updates/screenshots/Screenshot%202025-03-13%20022205.png)
+![Frontend Update](screenshots/Screenshot%202025-03-13%20022205.png)
 
 ## Contributing
 
