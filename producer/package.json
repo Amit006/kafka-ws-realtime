@@ -1,0 +1,15 @@
+{
+  "name": "producer",
+  "version": "1.0.0",
+  "description": "A real-time updates producer application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}

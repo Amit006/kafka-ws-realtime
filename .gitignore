@@ -1,0 +1,22 @@
+# Ignore patterns for subfolder1
+consumer-websocket/*.log
+consumer-websocket/node_modules/
+consumer-websocket/.env
+consumer-websocket/coverage/
+consumer-websocket/package-lock.json
+
+# Ignore patterns for subfolder2
+express-server/*.tmp
+express-server/dist/
+express-server/.env
+express-server/coverage/
+express-server/package-lock.json
+express-server/node_modules/
+
+# Ignore patterns for subfolder3
+producer/*.bak
+producer/build/
+producer/.env
+producer/coverage/
+producer/node_modules/
+producer/package-lock.json
