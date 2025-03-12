@@ -4,6 +4,7 @@ consumer-websocket/node_modules/
 consumer-websocket/.env
 consumer-websocket/coverage/
 consumer-websocket/package-lock.json
+consumer-websocket/dist/
 
 # Ignore patterns for subfolder2
 express-server/*.tmp
@@ -12,6 +13,7 @@ express-server/.env
 express-server/coverage/
 express-server/package-lock.json
 express-server/node_modules/
+express-server/dist/
 
 # Ignore patterns for subfolder3
 producer/*.bak
@@ -20,3 +22,4 @@ producer/.env
 producer/coverage/
 producer/node_modules/
 producer/package-lock.json
+producer/dist/ 
